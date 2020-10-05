@@ -3,10 +3,10 @@
     margin: 60px;
 }
 .txtColor {
-    color: rgb(255, 0, 0);
-   
+    color: rgb(255, 0, 0);   
 }
 .redimension{
     width: 50%;
-   
+    margin-bottom: 40px;
+    margin-left: 300px;  
 }
